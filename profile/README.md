@@ -24,6 +24,11 @@ Cylonix is an open source client application for the Cylonix Secure Access Servi
 
 The default WireGuard mesh is sufficient for secure peer-to-peer connectivity. Enterprises can enable Cilium and VPP components to enforce security policies and route traffic at scale.
 
+## More about Cylonix
+
+[Cylonix https://cylonix.io](https://cylonix.io)
+
+
 <!--
 
 **Here are some ideas to get you started:**
