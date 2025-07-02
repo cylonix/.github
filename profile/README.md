@@ -18,7 +18,7 @@ Cylonix is an open source client application for the Cylonix Secure Access Servi
 
 ## Architecture
 
-Please refer to [System Architecture](./system.md) for details.
+Please refer to [System Architecture](./SYSTEM.md) for details.
 ![System](./system.svg)
 
 1. WireGuard mesh network termination  
@@ -30,7 +30,6 @@ The default WireGuard mesh is sufficient for secure peer-to-peer connectivity. E
 ## More about Cylonix
 
 [Cylonix https://cylonix.io](https://cylonix.io)
-
 
 <!--
 
