@@ -18,6 +18,9 @@ Cylonix is an open source client application for the Cylonix Secure Access Servi
 
 ## Architecture
 
+Please refer to [System Architecture](./system.md) for details.
+![System](./system.svg)
+
 1. WireGuard mesh network termination  
 2. (Enterprise only) Cilium firewall integration  
 3. (Enterprise only) VPP policy routing engine
